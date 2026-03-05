@@ -5,12 +5,12 @@ This repository contains the following project created in the Modern Angular Cou
  ## What "Modern Angular" Means in this Project
 
  This project follows modern Angular best practices.including 
-✅ Standalone components (no NgModule)
-✅ Modern Angular CLI defaults
-✅ Signals-first mental model
-✅ Built-in control flow (@if, @for, @switch)
-✅ Modern testing setup
-✅ Clean, explicit project structure
+  ✅ Standalone components (no NgModule)
+  ✅ Modern Angular CLI defaults
+  ✅ Signals-first mental model
+  ✅ Built-in control flow (@if, @for, @switch)
+  ✅ Modern testing setup
+  ✅ Clean, explicit project structure
 
 
  🧭 Course Progression
